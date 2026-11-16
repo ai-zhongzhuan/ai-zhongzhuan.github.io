@@ -1,0 +1,15 @@
+{
+  "owner": "ai-zhongzhuan",
+  "name": "ai-zhongzhuan.github.io",
+  "visibility": "public",
+  "default_branch": "main",
+  "description": "AI 中转站公开目录与站点档案，数据来自 Folkbench。",
+  "homepage": "https://ai-zhongzhuan.github.io/",
+  "topics": [
+    "llm",
+    "ai-api",
+    "relay",
+    "directory",
+    "public-data"
+  ]
+}
