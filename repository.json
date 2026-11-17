@@ -3,13 +3,28 @@
   "name": "ai-zhongzhuan.github.io",
   "visibility": "public",
   "default_branch": "main",
-  "description": "AI 中转站公开目录与站点档案，数据来自 Folkbench。",
+  "description": "AI 中转站公开目录与站点档案，数据来自 Folkbench。 | AI中转站大全：API中转站目录、中转站推荐、支付与发票资料、新手选站指南（排序按站点规则，含合作档位与运营加权）",
   "homepage": "https://ai-zhongzhuan.github.io/",
   "topics": [
-    "llm",
     "ai-api",
-    "relay",
+    "ai-relay",
+    "api-proxy",
+    "api-relay",
+    "awesome-list",
+    "chatgpt",
+    "claude",
+    "claude-api",
+    "deepseek",
     "directory",
-    "public-data"
+    "gemini",
+    "github-pages",
+    "gpt",
+    "llm",
+    "llm-api",
+    "openai",
+    "openai-api",
+    "public-data",
+    "relay",
+    "relay-api"
   ]
 }
